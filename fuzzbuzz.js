@@ -1,3 +1,4 @@
+//new file
 var fizz = fizzBuzz(50)
 console.log(fizz)
 
